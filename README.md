@@ -10,3 +10,9 @@ This project involves an analysis of historical video games sales data for GameC
 The dataset used includes historical video game sales data from 1980-2016 from [VGChartz](https://www.vgchartz.com/).
 ## Tools Used
 - Microsoft Excel: To clean and analyze data and generate visualizations.
+## Techniques
+- Data cleaning
+- Data grouping
+- Data summarizing
+- Descriptive statistics
+- Data visualization with Excel
